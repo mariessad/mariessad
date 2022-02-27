@@ -11,8 +11,8 @@
 
 ### 😊 Connect with me
 
-<a href="https://twitter.com/creative_dev_m"></a>
-<a href="https://www.linkedin.com/in/mariessa-d-349805232/"> </a>
+<a href="https://twitter.com/creative_dev_m">Twitter</a>
+<a href="https://www.linkedin.com/in/mariessa">LinkedIn</a>
 
 ### 🧠 Education
 
