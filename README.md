@@ -1,7 +1,6 @@
 ### Hello! I'm Mariessa, a Web developer from a non-technical background. 👋
 
-- 🔭 I’m currently working on my first full-stack web application!
-- 🌱 I’m currently learning the MERN stack!
+- 🌱 I’m currently learning TypeScript! And trying to decide what programming language to learn next...
 - 👯 I’m looking to collaborate on cool web dev projects
 - 🤔 I’m looking for help with breaking into a tech role!
 - 💬 Ask me about front end development & design
