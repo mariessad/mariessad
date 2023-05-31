@@ -1,4 +1,4 @@
-### Hello! I'm Mariessa, a Web developer from a non-technical background. 👋
+### Hello! I'm Mariessa, a Web developer from a non-technical background. I currently work as a Teaching fellow for a non-profit Tech Bootcamp!👋
 
 - 🌱 I’m currently learning TypeScript! And trying to decide what programming language to learn next...
 - 👯 I’m looking to collaborate on cool web dev projects
