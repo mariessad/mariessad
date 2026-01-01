@@ -1,16 +1,13 @@
-### Hello! I'm Mariessa, a Web developer from a non-technical background. I currently work as a Teaching fellow for a non-profit Tech Bootcamp!👋
+### Hello! I'm Mariessa, a software engineer from a non-technical background. I currently work as Backend software engineer and a Teaching fellow for a non-profit Tech Bootcamp!👋
 
 - 🌱 I’m currently learning TypeScript! And trying to decide what programming language to learn next...
 - 👯 I’m looking to collaborate on cool web dev projects
-- 🤔 I’m looking for help with breaking into a tech role!
 - 💬 Ask me about front end development & design
-- 📫 How to reach me: Mariessa.Devincentis@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I raise monarch butterflies from wild eggs to help increase the global population 🦋
 
 ### 😊 Connect with me
 
-<a href="https://twitter.com/creative_dev_m">Twitter</a>
 <a href="https://www.linkedin.com/in/mariessa">LinkedIn</a>
 
 ### 🧠 Education
